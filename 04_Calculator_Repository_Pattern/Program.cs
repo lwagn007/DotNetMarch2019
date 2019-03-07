@@ -10,6 +10,8 @@ namespace _04_Calculator_Repository_Pattern
     {
         static void Main(string[] args)
         {
+            ProgramUI program = new ProgramUI();
+            program.Run();
         }
     }
 }
