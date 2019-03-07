@@ -33,13 +33,13 @@ namespace _01_Hello_World
             Console.WriteLine($"{hello}, {firstName} {lastName}. You are {age}");
 
             //Console.WriteLine("Hello, what is your first name?");
-            //    string firstName = Console.ReadLine();
+            //string firstName = Console.ReadLine();
 
             //Console.WriteLine("What is your last name?");
-            //    string lastName = Console.ReadLine();
+            //string lastName = Console.ReadLine();
 
             //Console.WriteLine("What is your age?");
-            //    int age = int.Parse(Console.ReadLine());
+            //int age = int.Parse(Console.ReadLine());
 
             //Console.WriteLine($"Hello,{firstName} {lastName}, you are a {age}.");
 

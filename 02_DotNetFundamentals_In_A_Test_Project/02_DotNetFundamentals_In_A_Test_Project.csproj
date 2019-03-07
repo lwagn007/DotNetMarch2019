@@ -53,6 +53,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="02_Reference_Types_And_Collections.cs" />
     <Compile Include="03_Operators_And_Methods.cs" />
+    <Compile Include="04_If_ElseIf_Else.cs" />
+    <Compile Include="05_Switches_And_Enums.cs" />
+    <Compile Include="06_Loops.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
